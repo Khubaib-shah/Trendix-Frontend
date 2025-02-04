@@ -5,7 +5,7 @@ import { TbBrandMeta } from "react-icons/tb";
 
 const Topbar = () => {
   return (
-    <div className="bg-[#ea2e0e] text-white">
+    <div className="bg-reddit-red text-white">
       {/* Icons */}
       <div className="container mx-auto flex justify-between items-center py-3 px-4">
         <div className="hidden md:flex space-x-4 ">
